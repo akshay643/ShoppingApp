@@ -1,0 +1,12 @@
+span{
+  color:red;
+  font-size: 17px;;
+}
+.bottom{
+  display: flex;
+  justify-content: center;
+}
+
+.card{
+  width:200px;
+}

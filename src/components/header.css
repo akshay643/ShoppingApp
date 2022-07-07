@@ -1,0 +1,32 @@
+.background-video {
+  position: relative;
+}
+
+.header {
+  position: relative;
+}
+
+video {
+  height: 100%;
+  margin-top: 0;
+}
+
+.play {
+  position: absolute;
+  top: 40%;
+  left: 40%;
+  background: transparent;
+  border: 0;
+}
+
+.play-icon {
+  font-size: 50px;
+  color: white;
+}
+
+.header-bottom-tage {
+  position: absolute;
+  left: 32%;
+  bottom: 50px;
+  color: white;
+}

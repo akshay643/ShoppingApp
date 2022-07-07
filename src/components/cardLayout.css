@@ -1,0 +1,13 @@
+.cardLayout{
+  display:flex;
+  justify-content: space-evenly;
+}
+
+.heading{
+  padding-left:10px
+}
+
+.layoutPage{
+  z-index: 99;
+  border-radius:10px;
+}
